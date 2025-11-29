@@ -1,0 +1,6 @@
+git clone "website name and reposeteory"
+
+
+git add .
+git commit -m "stringName"
+git push
